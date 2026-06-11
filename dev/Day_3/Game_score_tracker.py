@@ -1,8 +1,5 @@
 score = 0 
-
- 
-
-# Level completions 
+ # Level completions 
 
 score += 100   # Level 1 complete 
 
