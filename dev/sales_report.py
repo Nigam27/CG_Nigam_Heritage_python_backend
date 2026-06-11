@@ -1,0 +1,11 @@
+# Real-world: Formatted report with escape characters
+print("QUARTERLY SALES REPORT")
+print("=" * 40)
+print("Region\t\tSales (₹)\tGrowth")
+print("-" * 40)
+print("North\t\t₹2,45,000\t+12%")
+print("South\t\t₹3,10,500\t+8%")
+print("East\t\t₹1,87,200\t+15%")
+print("West\t\t₹2,93,800\t+5%")
+print("=" * 40)
+print("Total\t\t₹10,36,500")
