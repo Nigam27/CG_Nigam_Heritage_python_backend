@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Real-world example: Online food delivery order
  
 # Creating variables (putting data in boxes)
@@ -24,7 +24,7 @@ print("GST (5%): ₹", gst)
 print("Final Amount: ₹", final_amount)
 print("Member Discount Applied:", is_member)
 print("===================================")
-=======
+
 # Real-world example: Online food delivery order
 
 # Creating variables (putting data in boxes)
@@ -50,4 +50,4 @@ print("GST (5%): Rs.", gst)
 print("Final Amount: Rs.", final_amount)
 print("Member Discount Applied:", is_member)
 print("===================================")
->>>>>>> c5bb30adadc4f31c27a6341fe84cf3fba09048c0
+#>>>>>>> c5bb30adadc4f31c27a6341fe84cf3fba09048c0
